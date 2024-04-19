@@ -3,9 +3,9 @@ kubeconfig_file: /home/bkhoo/.kube/config
 
 cluster_version: 4.15.8
 
-cluster_ingress_domain: apps.cluster-gzgks.dynamic.redhatworkshops.io
+cluster_ingress_domain: apps.cluster-12345.examle.com
 ingress_ip:
-  - 150.240.143.141
+  - 192.168.192.168
 
 control_nodes: 3
 worker_nodes: 3
